@@ -6,5 +6,4 @@ J. Pei, G. Wang, K. C. Ho, and L. Huang, ``Bias reduced semidefinite relaxation 
 
 For technical details of the methods, please refer to the original authors—since I am merely reproducing their works😄
 
-PEP_BMM_2.m is our approach proposed in
-G. Cheng and W. Xiong, ``An iterative approach to multistatic localization with unknown transmitter position and offset,'' submitted to \textit{IEEE Signal Process. Lett.}, 2025.
+PEP_BMM_2.m is a majorization--minimization approach implemented by ourselves. Just for fun.
